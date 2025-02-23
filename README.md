@@ -1,9 +1,10 @@
 Hi there 👋, I'm Mildred Mawunyo Dzre
 ============================================================================================================================================
+ABOUT ME
+---------------------------
 
 Accountant and Data Analyst
 ---------------------------
-ABOUT ME
 I am a resourceful Accountant exploring the world of data analytics to help institutions uncover valuable insights within their financials. With my knowledge of the accounting process and data analytics tools, I clean, analyze and and create compelling visualizations for institutions to make data-driven decisions by identifying process improvements which increases efficiency and helps manage financial risk. 
 
 
