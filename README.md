@@ -18,4 +18,4 @@ I am a resourceful Accountant exploring the world of data analytics to help inst
 - **Excel** (Pivot Tables, Power Query)  
 - **Power BI** for creating interactive dashboards
 
-* 🤝  I'm open to collaborating on Projects that explore data that give insights on and solve real world financial problems
+* 🤝  I'm open to collaborating on Projects which explore data that give insights on and solve real world financial problems
